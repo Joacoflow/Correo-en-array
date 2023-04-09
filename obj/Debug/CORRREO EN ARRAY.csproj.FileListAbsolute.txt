@@ -1,0 +1,8 @@
+C:\Users\joaqu\Desktop\C#\SEMANA 14\CORRREO EN ARRAY\bin\Debug\CORRREO EN ARRAY.exe.config
+C:\Users\joaqu\Desktop\C#\SEMANA 14\CORRREO EN ARRAY\bin\Debug\CORRREO EN ARRAY.exe
+C:\Users\joaqu\Desktop\C#\SEMANA 14\CORRREO EN ARRAY\bin\Debug\CORRREO EN ARRAY.pdb
+C:\Users\joaqu\Desktop\C#\SEMANA 14\CORRREO EN ARRAY\obj\Debug\CORRREO EN ARRAY.csproj.AssemblyReference.cache
+C:\Users\joaqu\Desktop\C#\SEMANA 14\CORRREO EN ARRAY\obj\Debug\CORRREO EN ARRAY.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaqu\Desktop\C#\SEMANA 14\CORRREO EN ARRAY\obj\Debug\CORRREO EN ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\Desktop\C#\SEMANA 14\CORRREO EN ARRAY\obj\Debug\CORRREO EN ARRAY.exe
+C:\Users\joaqu\Desktop\C#\SEMANA 14\CORRREO EN ARRAY\obj\Debug\CORRREO EN ARRAY.pdb
